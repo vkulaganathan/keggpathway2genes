@@ -15,6 +15,6 @@ Extract gene entries for the KEGG pathway Apoptosis (hsa04210):
 
 A tab-separated file will be written out
 
-<i>current version='0.0.1'</i>
+<i>current version='0.0.3'</i>
 
 
