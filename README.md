@@ -11,7 +11,7 @@ Extract gene entries for a specific wikipathway.
 
 ## Examples
 Extract gene entries for the KEGG pathway Apoptosis (hsa04210):
-`$ keggpathway2genes -kp hsa04210`
+<br>`$ keggpathway2genes -kp hsa04210`</br>
 
 A tab-separated file will be written out
 
