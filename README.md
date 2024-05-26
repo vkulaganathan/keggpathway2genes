@@ -1,5 +1,3 @@
-# keggpathway2genes
-A tool to extract genes listed in a given KEGG pathway
 
 ## Installation
 
@@ -13,7 +11,7 @@ Extract gene entries for a specific wikipathway.
 
 ## Examples
 Extract gene entries for the KEGG pathway Apoptosis (hsa04210):
-<br>`$ keggpathway2genes -kp hsa04210`</br>
+`$ keggpathway2genes -kp hsa04210`
 
 A tab-separated file will be written out
 
